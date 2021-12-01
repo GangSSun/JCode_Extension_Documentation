@@ -4,7 +4,7 @@
 우리가 공부하기 전에 책상정리를 하는 것 처럼
 코딩을 하기 전에 우리가 사용할 개발 환경을 각자에 맞게 정리하고, 꾸미고, 확장 시킨다면 어떨까요?
 
-코딩이 지루하다면 차 ☕ 한잔 하면서 천천히 읽어보시는 것도 괜찮습니다!
+코딩을 하다가 지루하시다면 차 ☕ 한잔 하면서 천천히 읽으며 하나씩 설치 해 보시는건 어떨까요?
 
 **코딩이 재미 없다면 먼저 꾸며보세요!**
 
@@ -16,11 +16,7 @@
 
 
 
-### - [vsix파일로 Extension 설치하기]
-  
-- 아래 사진 처럼 
-  ![image](https://user-images.githubusercontent.com/87172228/144232092-d43d331a-5e88-4040-8b23-e06db0a082f4.png)
-
+### - [VSIX 파일로 Extension 설치하기](https://github.com/GangSSun/JCode_Extension_Documentation/blob/52d4bdcd45f38dd4cb3eff582a313802cf119199/Docs/how_to_install_vsix.md)
   
 
   

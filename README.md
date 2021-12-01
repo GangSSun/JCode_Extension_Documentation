@@ -37,7 +37,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 **⚠C/C++의 경우 JCode의 마켓플레이스에서 다운 받게 될 경우 JCode의 프로세서를 arm버전으로 인식하여 arm버전 C/C++을 설치합니다.**
   
 **이 경우 Exetention의 모든 기능을 사용 할 수 없기 때문에 번거롭더라도 C/C++ 깃허브에서 linux_x86_64버전을 다운받아 
-상단의 vsix파일로 Extension 설치하기를 참고하여 설치하는 것을 권장합니다.**
+상단의 [VSIX파일로 Extension 설치하기][1] 를 참고하여 설치하는 것을 권장합니다.**
   
 ### What is It?
   
@@ -263,3 +263,5 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
   
 
 **수정할 내용이 있거나, 추천해주고 싶은 Extention이 있다면 언제든지 Pull requests 해주세요!**
+
+[1]: https://github.com/GangSSun/JCode_Extension_Documentation/blob/52d4bdcd45f38dd4cb3eff582a313802cf119199/Docs/how_to_install_vsix.md "VSIX"

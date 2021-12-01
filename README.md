@@ -1,4 +1,4 @@
-# 🔴JCode_Extention_Documentation
+# 🔴JCode_Extension_Documentation
 ## JCode에서 사용이 가능한 확장들을 정리한 문서
 
 우리가 공부하기 전에 책상정리를 하는 것 처럼
@@ -8,28 +8,26 @@
 
 **코딩이 재미 없다면 먼저 꾸며보세요!**
 
-*(본 문서의 Extention은 JCode에서 원활히 작동하는 것을 원칙으로 하며, 작성자의 주관이 들어가있음을 알립니다.)*
+*(본 문서의 Extension은 JCode에서 원활히 작동하는 것을 원칙으로 하며, 작성자의 주관이 들어가있음을 알립니다.)*
 
 
 
 ---------
 
-**문단명 아래의 펼치기를 클릭하시면 접혀 있던 설명이 펼쳐집니다!**
 
-### - vsix파일로 Extention 설치하기
 
-<details> <summary> 펼치기 </summary>
+### - [vsix파일로 Extension 설치하기]
   
 - 아래 사진 처럼 
   ![image](https://user-images.githubusercontent.com/87172228/144232092-d43d331a-5e88-4040-8b23-e06db0a082f4.png)
 
   
-  </details>
+
   
   
-**각 항목을 클릭하면 해당 Extention의 marketplace로 이동합니다.**
+**각 항목을 클릭하면 해당 Extension의 marketplace로 이동합니다.**
 
-
+**문단명 아래의 펼치기를 클릭하시면 접혀 있던 설명이 펼쳐집니다!**
 
 # Extra Feature 
 
@@ -43,7 +41,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 **⚠C/C++의 경우 JCode의 마켓플레이스에서 다운 받게 될 경우 JCode의 프로세서를 arm버전으로 인식하여 arm버전 C/C++을 설치합니다.**
   
 **이 경우 Exetention의 모든 기능을 사용 할 수 없기 때문에 번거롭더라도 C/C++ 깃허브에서 linux_x86_64버전을 다운받아 
-상단의 vsix파일로 Extention 설치하기를 참고하여 설치하는 것을 권장합니다.**
+상단의 vsix파일로 Extension 설치하기를 참고하여 설치하는 것을 권장합니다.**
   
 ### What is It?
   
@@ -59,7 +57,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -71,7 +69,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -84,8 +82,8 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
-- 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
+- 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출 후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
   
@@ -96,7 +94,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -108,7 +106,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -120,7 +118,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -140,7 +138,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -152,7 +150,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -164,7 +162,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -176,7 +174,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -188,7 +186,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -200,7 +198,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -212,7 +210,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -224,7 +222,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?
@@ -236,7 +234,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
-- VS Code의 UI 환경을 한국어로 번역해주는 Extention입니다.
+- VS Code의 UI 환경을 한국어로 번역해주는 Extension입니다.
 - 단순히 메뉴만 번역해주는 것이 아니라, 오류 검출후 디버깅 메세지 또한 한글로 출력해 줍니다.
 
 ### How to Use?

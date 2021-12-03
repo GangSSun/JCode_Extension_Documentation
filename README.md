@@ -1,4 +1,4 @@
-# 🔴JCode_Extension_Documentation
+# Extension For JCode❕
 ## JCode에서 사용이 가능한 확장들을 정리한 문서
 
 우리가 공부하기 전에 책상정리를 하는 것 처럼

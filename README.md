@@ -129,18 +129,22 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
   
 ### What is It?
   - 현재 키보드 커서가 따옴표, 괄호 등의 안에 있을 경우 tab키를 통한 이동을 가능하게 해줍니다.
-
-  
+    ![tab_preview](https://user-images.githubusercontent.com/87172228/144570154-3432cb3e-4a08-431d-b5f9-4e7b74d7dc36.gif)
+  - 이동시에 마우스나 방향키를 연타 할 일이 매우 적어집니다!
 
 ### How to Use?
+  - Toggle TabOut명령어를 통해 On/Off가 가능합니다.
   
   </details>
     
-## [- diff](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-diff )
+## [- Diff](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-diff )
   
 <details> <summary>펼치기</summary> 
   
 ### What is It?
+  - 빠르고 간편하게 두 파일간의 diff(비교)를 할 수 있게 해줍니다.
+    ![diff_preview](https://user-images.githubusercontent.com/87172228/144573279-536b6cb1-10c2-4fec-ab2c-b03ab8fedc25.gif)
+
 
 
 ### How to Use?

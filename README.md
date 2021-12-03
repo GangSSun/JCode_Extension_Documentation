@@ -2,6 +2,7 @@
 ## JCode에서 사용이 가능한 확장들을 정리한 문서
 
 우리가 공부하기 전에 책상정리를 하는 것 처럼
+
 코딩을 하기 전에 우리가 사용할 개발 환경을 각자에 맞게 정리하고, 꾸미고, 확장 시킨다면 어떨까요?
 
 코딩을 하다가 지루하시다면 차 ☕ 한잔 하면서 천천히 읽으며 하나씩 설치 해 보시는건 어떨까요?
@@ -337,6 +338,6 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
   </details>
   
 
-**수정할 내용이 있거나, 추천해주고 싶은 Extension이 있다면 언제든지 Pull requests 해주세요!**
+**수정할 내용이 있거나, 추천해주고 싶은 Extension이 있다면 언제든지 PR 해주세요!**
 
 [1]: https://github.com/GangSSun/JCode_Extension_Documentation/blob/52d4bdcd45f38dd4cb3eff582a313802cf119199/Docs/how_to_install_vsix.md "VSIX"

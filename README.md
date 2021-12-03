@@ -33,7 +33,7 @@
 
 # Extra Feature 
 
-VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
+VS Code에 새로운 기능을 추가하는 Extension입니다.
 
 
 
@@ -176,7 +176,7 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 
 # UI / Theme
 
-VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니다.
+VS Code 전반에서 사용되는 UI 요소와 관련된 Extension입니다.
 
 **각 항목을 클릭 하시면 접혀 있던 설명이 펼쳐집니다!**
     
@@ -280,6 +280,14 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 
   
   </details>
+  
+---------
+
+# Theme
+
+코드 및 아이콘을 꾸며주는 테마에 관련된 Extension입니다.
+
+**각 항목을 클릭 하시면 접혀 있던 설명이 펼쳐집니다!**
       
 ## [- Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda )
   

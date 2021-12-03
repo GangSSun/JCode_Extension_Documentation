@@ -39,11 +39,11 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 ## [- C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 <details> <summary> 펼치기 </summary> 
 
-**⚠C/C++ Extension의 경우 JCode의 마켓플레이스에서 다운 받아 설치하게 될 경우 arm버전이 설치됩니다.**
+**⛔C/C++ Extension의 경우 JCode의 마켓플레이스에서 다운 받아 설치하게 될 경우 arm버전이 설치됩니다.**
   
-**JCode의 프로세서는 x86이기 때문에 Extension의 모든 기능을 온전히 사용할 수 없습니다.**
+**⛔JCode의 프로세서는 x86이기 때문에 Extension의 모든 기능을 온전히 사용할 수 없습니다.**
 
-**번거롭더라도 linux_x86_64버전을 상단의 [VSIX파일로 Extension 설치하기][1] 를 참고하여 설치하셔야 합니다.**
+**⛔번거롭더라도 linux_x86_64버전을 상단의 [VSIX파일로 Extension 설치하기][1] 를 참고하여 설치하셔야 합니다.**
   
 **기존 JCode에서 gcc 컴파일러 자체로는 편의기능이 전무하기에 거의 필수라고 할 수 있는 Extension입니다.**
   
@@ -214,7 +214,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 ## [- Better C++ Syntax](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax )
   
 <details> <summary>펼치기</summary> 
-  
+
 ### What is It?
   - 구문 등을 강조 하여 코드 전체의 가독성을 크게 높여줍니다.
   - 매개변수 강조, 템플릿 정의 구문에 대해 강조해줍니다.
@@ -222,8 +222,6 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
     ![image](https://user-images.githubusercontent.com/87172228/144598340-07df0ab1-5729-445f-a8d2-aaac39e606a2.png)
   - After
     ![image](https://user-images.githubusercontent.com/87172228/144598353-5a164618-0295-45af-b858-95ad0ed93d03.png)
-
-  
  
   
   </details>
@@ -232,18 +230,19 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
   
 <details> <summary>펼치기</summary> 
   
+  **⛔JCode상의 Market Place에서 설치가 불가능하므로 상단의 [VSIX파일로 Extension 설치하기][1] 를 참고하여 설치하셔야 합니다.**
+  
 ### What is It?
   - 코드 생성 및 리팩토링을 제공해 줍니다.
   - 정의 및 선언 추가, 변수의 getter 및 setter 생성 등을 라인 오른쪽의 전구를 눌러 쉽게 할 수 있습니다.
   
   - 정의 추가 : 함수를 선언한 뒤 정의문을 쉽게 생성해 줍니다.
+  
     ![add_definition](https://user-images.githubusercontent.com/87172228/144599550-83d69697-2c08-41ef-8632-f5a32943c524.gif)
   
   - Getter & Setter 생성 : 비공개 멤버(private)에 대한 Getter와 Setter를 간편하게 생성해 줍니다.
+  
     ![generate_accessors](https://user-images.githubusercontent.com/87172228/144599780-2667e79b-1603-402c-97e9-1ecdfaa6a0a0.gif)
-
-
-### How to Use?
   
   </details>
       
@@ -252,13 +251,36 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
+  
+  - 들여쓰기 단계에 따라 공백 부분의 색상을 다르게 칠하여 구분해 줍니다.
+  
+    ![image](https://user-images.githubusercontent.com/87172228/144601064-38542df6-3777-4406-819e-aaa2be04e564.png)
 
+  - 동일한 단계의 들여쓰기에서 불필요한 공백이 추가 되었을 경우 빨갛게 칠하여 알려줍니다.
+  
+    ![image](https://user-images.githubusercontent.com/87172228/144601109-a8f95482-f036-43d0-b0ed-0cdf2020d151.png)
 
-### How to Use?
   
   </details>
       
-## [- panda thema](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda )
+      
+## [- Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight )
+  
+<details> <summary>펼치기</summary> 
+  
+### What is It?
+  
+  - 파일에서 css/web 색상이 발견되면 해당 코드를 그에 맞는 색으로 색칠해 줍니다.
+  
+    ![image](https://user-images.githubusercontent.com/87172228/144601574-9cf15819-f42f-4725-a6cd-8c0955969cef.png)
+  
+  - 색을 변경 할 수 있는 Theme나 Extension에서 원하는 색으로 변경할 때에 유용합니다.
+
+
+  
+  </details>
+      
+## [- Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda )
   
 <details> <summary>펼치기</summary> 
   
@@ -302,18 +324,7 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 ### How to Use?
   
   </details>
-      
-## [- Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight )
-  
-<details> <summary>펼치기</summary> 
-  
-### What is It?
 
-
-### How to Use?
-  
-  </details>
-      
 ## [- One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme )
   
 <details> <summary>펼치기</summary> 

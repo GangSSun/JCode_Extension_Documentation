@@ -8,9 +8,9 @@
 
 **코딩이 재미 없다면 먼저 꾸며보세요!**
 
-*(본 문서의 Extension은 JCode에서 원활히 작동하는 것을 원칙으로 하며, 작성자의 주관이 들어가있음을 알립니다.)*
+*(본 문서는 JCode에서 원활히 작동하는 Extension만 기재하는 것을 원칙으로 하며, 작성자의 주관이 들어가있음을 알립니다.)*
 
-
+*(본문에 간략히 설명된 기능에 대한 자세한 설명은 market place에서  Extension의 설명을 참고하길 바랍니다.)*
 
 ---------
 
@@ -24,6 +24,11 @@
 **각 항목을 클릭하면 해당 Extension의 marketplace로 이동합니다.**
 
 **문단명 아래의 펼치기를 클릭하시면 접혀 있던 설명이 펼쳐집니다!**
+
+**별도의 추가 설정이나 설명이 필요없는 Extension의 경우 How Use가 생략되어 있습니다.**
+
+**자세한 설명은 Extension별 Market Place를 참조해주세요.**
+
 
 # Extra Feature 
 
@@ -174,14 +179,19 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 
 **각 항목을 클릭 하시면 접혀 있던 설명이 펼쳐집니다!**
     
-## [- Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 )
+## [- Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 )
   
 <details> <summary>펼치기</summary> 
   
 ### What is It?
+  - 괄호별로 짝을 지어 색을 입혀 가독성을 높여줍니다.
+    ![image](https://user-images.githubusercontent.com/87172228/144596677-16abacfd-9f20-4caa-a2ce-c04b10833fab.png)
+  
+  *(성능을 높힌 버전 2가 있지만, JCode에선 동작오류가 있기에 버전 1 사용을 권장합니다.)*
 
 
 ### How to Use?
+  - 확장 설정에서 각 괄호별 색을 직접 정할 수 있습니다.
   
   </details>
       
@@ -190,9 +200,14 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
+  - 주석에서 ```todo``` 등 설정한 키워드에 대해 하이라이트 해주는 Extension입니다.
+  - 주석을 각 상활별로 구별 할 수 있게 해줍니다.
+    - ex) 경고문은 빨강, 동작 설명은 초록, 추가 구현이 필요한 부분은 주황 등
+  ![image](https://user-images.githubusercontent.com/87172228/144597461-f87bb1dc-5622-4cc6-9da7-9aa599a3fe61.png)
 
 
 ### How to Use?
+  - ```better-comments.tags``` 에서 더 많은 키워드를 설정하거나 각 키워드별 색상을 변경 할 수 있습니다.
   
   </details>
       
@@ -201,9 +216,15 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
+  - 구문 등을 강조 하여 코드 전체의 가독성을 크게 높여줍니다.
+  - 매개변수 강조, 템플릿 정의 구문에 대해 강조해줍니다.
+  - Before
+    ![image](https://user-images.githubusercontent.com/87172228/144598340-07df0ab1-5729-445f-a8d2-aaac39e606a2.png)
+  - After
+    ![image](https://user-images.githubusercontent.com/87172228/144598353-5a164618-0295-45af-b858-95ad0ed93d03.png)
 
-
-### How to Use?
+  
+ 
   
   </details>
       
@@ -212,6 +233,14 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 익스텐션들입니�
 <details> <summary>펼치기</summary> 
   
 ### What is It?
+  - 코드 생성 및 리팩토링을 제공해 줍니다.
+  - 정의 및 선언 추가, 변수의 getter 및 setter 생성 등을 라인 오른쪽의 전구를 눌러 쉽게 할 수 있습니다.
+  
+  - 정의 추가 : 함수를 선언한 뒤 정의문을 쉽게 생성해 줍니다.
+    ![add_definition](https://user-images.githubusercontent.com/87172228/144599550-83d69697-2c08-41ef-8632-f5a32943c524.gif)
+  
+  - Getter & Setter 생성 : 비공개 멤버(private)에 대한 Getter와 Setter를 간편하게 생성해 줍니다.
+    ![generate_accessors](https://user-images.githubusercontent.com/87172228/144599780-2667e79b-1603-402c-97e9-1ecdfaa6a0a0.gif)
 
 
 ### How to Use?

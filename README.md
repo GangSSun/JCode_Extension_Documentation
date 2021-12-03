@@ -144,10 +144,25 @@ VS Code에 새로운 기능을 추가하는 익스텐션들입니다.
 ### What is It?
   - 빠르고 간편하게 두 파일간의 diff(비교)를 할 수 있게 해줍니다.
     ![diff_preview](https://user-images.githubusercontent.com/87172228/144573279-536b6cb1-10c2-4fec-ab2c-b03ab8fedc25.gif)
-
+  - 단순하게 선택한 두 문단의 비교 뿐만 아니라 여러 상황의 비교를 지원합니다.
 
 
 ### How to Use?
+  
+  - 비교하려는 문단을 드래그 후 우클릭
+    
+    ![K-003](https://user-images.githubusercontent.com/87172228/144575373-d15397ff-1e57-465f-8538-ed6c5f9934c3.png)
+
+  
+  1. Select Text for Compare
+    - 비교하기 위한 원본으로 선택
+  2. Compare Text with Previous Selection
+    - 원본과 현재 선택한 문단을 비교
+  3. Compare Text with Clipboard
+    - Clipboard의 내용과 현재 선택한 문단을 비교
+  4. Compare Text in Visible Editors
+    - 현재 열려있는 두개의 편집기에서 각자 선택된 내용을 비교
+  
   
   </details>
   

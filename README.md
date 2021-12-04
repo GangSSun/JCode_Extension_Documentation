@@ -22,13 +22,11 @@
 
   
   
-**각 항목을 클릭하면 해당 Extension의 marketplace로 이동합니다.**
-
-**문단명 아래의 펼치기를 클릭하시면 접혀 있던 설명이 펼쳐집니다!**
-
-**별도의 추가 설정이나 설명이 필요없는 Extension의 경우 How Use가 생략되어 있습니다.**
-
-**자세한 설명은 Extension별 Market Place를 참조해주세요.**
+1. **각 항목을 클릭하면 해당 Extension의 marketplace로 이동합니다.**
+2. **문단명 아래의 펼치기를 클릭하시면 접혀 있던 설명이 펼쳐집니다!**
+3. **모든 Extension 및 Theme 설치 후엔 ```Ctrl + Shift + P``` 를 눌러 명령어 창에서 ```Reload Window``` 를 실행해주어야 설치가 완료됩니다.**
+4. **별도의 추가 설정이나 설명이 필요없는 Extension의 경우 How Use가 생략되어 있습니다.**
+5. **자세한 설명은 Extension별 Market Place를 참조해주세요.**
 
 
 # Extra Feature 
@@ -285,7 +283,12 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 Extension입니다.
 
 # Theme
 
-코드 및 아이콘을 꾸며주는 테마에 관련된 Extension입니다.
+### ⚠테마나 아이콘의 경우 하단의 Extension을 둘러보고, 본인의 취향에 맞게 더 찾아보시길 권장합니다.
+
+- 코드 및 아이콘을 꾸며주는 테마에 관련된 Extension입니다.
+- 작성자가 사용해 본 테마와 아이콘만 기재되었습니다.
+
+각 테마를 설치 하신 후 자동 적용되지 않는 다면 왼쪽 하단의 톱니바퀴를 눌러 색 테마에서 변경하시면 됩니다.
 
 **각 항목을 클릭 하시면 접혀 있던 설명이 펼쳐집니다!**
       
@@ -295,56 +298,86 @@ VS Code 전반에서 사용되는 UI 요소와 관련된 Extension입니다.
   
 ### What is It?
 
+  - 특유의 파스텔톤의 색상이 전체적으로 어두운 배경와 어우러져 알록달록 하지만 밝지않아 눈이 편한 테마.
+    ![image](https://user-images.githubusercontent.com/87172228/144703983-146f66c8-a315-4b77-9899-1b2eab9b5c60.png)
 
-
-### How to Use?
   
   </details>
-      
-## [- vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons )
   
-<details> <summary>펼치기</summary> 
   
-### What is It?
-
-
-### How to Use?
-  
-  </details>
-      
-## [- Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme )
-  
-<details> <summary>펼치기</summary> 
-  
-### What is It?
-
-
-### How to Use?
-  
-  </details>
-      
-## [- Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme )
-  
-<details> <summary>펼치기</summary> 
-  
-### What is It?
-
-
-### How to Use?
-  
-  </details>
-
 ## [- One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme )
   
 <details> <summary>펼치기</summary> 
   
 ### What is It?
 
+  - 모든 요소에 색을 입히되 구분은 확실히 해놓아 가독성이 좋은 테마.
+      ![image](https://user-images.githubusercontent.com/87172228/144704110-c3043506-0ee8-4065-bc69-f734b8b980dd.png)
+
+  
+  - 별도의 json파일의 변경없이 설정을 변경하기 쉬움.
+    ![image](https://user-images.githubusercontent.com/87172228/144704115-98033dc5-9d84-45c2-8a65-518995bd92dd.png)
+
+
+
+  
+  </details>
+
+## [- Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme )
+  
+<details> <summary>펼치기</summary> 
+  
+### What is It?
+
+  - 사용량이 제일 많은 테마 중 하나로 깔끔하며 기본적으로 배경이 아주 살짝 뿌옇게 보이는 것이 특징
+    ![image](https://user-images.githubusercontent.com/87172228/144704362-838e837e-2fc0-4576-86a0-7c82d49642ff.png)
+
+    
+  - 하나의 테마가 아니라 material theme 안에서 여러 버전의 테마를 지원함.
+    ![K-005](https://user-images.githubusercontent.com/87172228/144704412-8e61ebda-3e54-4f05-a212-b5de4053deed.png)
+
+  
+  </details>
+        
+## [- vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons )
+  
+<details> <summary>펼치기</summary> 
+  
+### What is It?
+  
+  - VSCode에서 만든 아이콘으로 자체적으로 만든 만큼 간결하고 깔끔한 아이콘이 특징.
+  - 확장자 및 폴더 별 아이콘을 추가해줍니다.
+    ![screenshot](https://user-images.githubusercontent.com/87172228/144704468-be034062-a574-45f4-a5b2-4ded2b8151d7.gif)
+
+      
+  </details>
+      
+      
+## [- Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme )
+  
+<details> <summary>펼치기</summary> 
+  
+### What is It?
+  
+  - 파일 확장자 별 아이콘들과 폴더 다양한 폴더 아이콘들을 새롭게 추가해줍니다.
+  
+  - VSCode에서 읽거나 수정 가능한 거의 모든 파일에 대한 아이콘이 추가되어있음.
+    ![image](https://user-images.githubusercontent.com/87172228/144704515-8d3980a4-a3ab-4b98-bce4-6069b7bd1b47.png)
+  
+  - 자주 분류되는 항목이나, 키워드, 언어별 폴더 아이콘들 또한 추가됩니다.
+    ![image](https://user-images.githubusercontent.com/87172228/144704555-63b70889-eeb6-47cd-b395-6377dee8c4ef.png)
+
+
+  
 
 ### How to Use?
   
   </details>
-  
+
+
+## 이외에도 유명한 테마들이 많으니 취향에 맞는 테마들을 직접 찾아보는 것도 하나의 재미가 아닐까요?
+
+------
 
 **수정할 내용이 있거나, 추천해주고 싶은 Extension이 있다면 언제든지 PR 해주세요!**
 

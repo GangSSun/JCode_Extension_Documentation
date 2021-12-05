@@ -26,7 +26,8 @@
 2. **문단명 아래의 펼치기를 클릭하시면 접혀 있던 설명이 펼쳐집니다!**
 3. **모든 Extension 및 Theme 설치 후엔 ```Ctrl + Shift + P``` 를 눌러 명령어 창에서 ```Reload Window``` 를 실행해주어야 설치가 완료됩니다.**
 4. **별도의 추가 설정이나 설명이 필요없는 Extension의 경우 How Use가 생략되어 있습니다.**
-5. **자세한 설명은 Extension별 Market Place를 참조해주세요.**
+5. **JCode의 Market Place 미작동시 직접 이동 후 다운로드 하거나, VSIX 폴더안의 파일의 다운로드 링크를 복사해 wget 명령어를 통해 다운로드 해주세요.**
+6. **자세한 설명은 Extension별 Market Place를 참조해주세요.**
 
 
 # Extra Feature 
@@ -37,7 +38,9 @@ VS Code에 새로운 기능을 추가하는 Extension입니다.
 
 ## [- C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 <details> <summary> 펼치기 </summary> 
-
+  
+ 
+    
 **⛔C/C++ Extension의 경우 JCode의 마켓플레이스에서 다운 받아 설치하게 될 경우 arm버전이 설치됩니다.**
   
 **⛔JCode의 프로세서는 x86이기 때문에 Extension의 모든 기능을 온전히 사용할 수 없습니다.**

@@ -17,8 +17,6 @@
 
 
 
-### - [VSIX 파일로 Extension 설치하기](https://github.com/GangSSun/JCode_Extension_Documentation/blob/52d4bdcd45f38dd4cb3eff582a313802cf119199/Docs/how_to_install_vsix.md)
-  
 
   
   
@@ -28,6 +26,10 @@
 4. **별도의 추가 설정이나 설명이 필요없는 Extension의 경우 How Use가 생략되어 있습니다.**
 5. **JCode의 Market Place 미작동시 직접 이동 후 다운로드 하거나, VSIX 폴더안의 파일의 다운로드 링크를 복사해 wget 명령어를 통해 다운로드 해주세요.**
 6. **자세한 설명은 Extension별 Market Place를 참조해주세요.**
+
+
+### - [VSIX 파일로 Extension 설치하기](https://github.com/GangSSun/JCode_Extension_Documentation/blob/52d4bdcd45f38dd4cb3eff582a313802cf119199/Docs/how_to_install_vsix.md)
+  
 
 
 # Extra Feature 
@@ -86,6 +88,7 @@ VS Code에 새로운 기능을 추가하는 Extension입니다.
     ![image](https://user-images.githubusercontent.com/87172228/144563125-ca671793-08e9-4814-b294-e59a215fe1b5.png)
   
   - 기본 출력창에서 출력을 하게 될 경우 input을 따로 입력할 수 없기 때문에 터미널통한 출력을 권장합니다.
+  
     ![image](https://user-images.githubusercontent.com/87172228/144564503-c829ff1e-7fa8-48a6-8d01-148204f6b726.png)
 
 
